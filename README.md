@@ -6,3 +6,5 @@ I CREATED A MODEL WHICH IDENTIFY THE OBJECT WITH THE HELP OF CNN AND SINGLE SHOT
 In real-time object detection, the prevailing paradigm has traditionally embraced multi-step methodologies, encompassing the proposal of bounding boxes, pixel or feature resampling, and high-quality classifier applications. While this approach has achieved high accuracy, its computational demands have often hindered its suitability for real-time applications. However, the Single Shot MultiBox Detector (SSD) represents a groundbreaking leap in deep learning-based object detection. SSD maintains exceptional accuracy while substantially improving detection speed by eliminating the need for pixel or feature resampling in the bounding box proposal stage. Instead, SSD directly predicts object categories and bounding box offsets using small convolutional filters on feature maps.
 
 
+OUTPUT OF THE CODE IS DISPLAYED
+![image](https://github.com/user-attachments/assets/449b3456-334f-4b0c-96e6-f59292f425b0)
